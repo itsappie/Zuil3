@@ -4,6 +4,7 @@ def lang_genoeg(x):
     elif x < 120:
         print('Sorry, je bent te klein!')
 
-#test
+
+# test
 lang_genoeg(123)
 lang_genoeg(119)
